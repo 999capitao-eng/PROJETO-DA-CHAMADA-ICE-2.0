@@ -1,0 +1,4 @@
+window.SUPABASE_CONFIG = {
+  URL: 'https://cggttaxzjmniusvhelrv.supabase.co',
+  ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNnZ3R0YXh6am1uaXVzdmhlbHJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzMzkxNDksImV4cCI6MjEwNjkxNTE0OX0.g9N16lNlgoIqnmggevpIN3OAVJ0_hEIaIWy0SJfuQ3k'
+};
